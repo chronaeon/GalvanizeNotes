@@ -1,6 +1,6 @@
 # Every programming language in 15 minutes
 
-- All programming languages have some things in common
+### All programming languages have some things in common
 	-Input (most programs) e.g..
 		- write data to a file
 		- send data over a network
@@ -10,19 +10,19 @@
 		- read data from a file
 		- receive data over a network
 		- receive data from a hardware device (mouse, keyboard, et al.)
-- Data comes as one of four:
+### Data comes as one of four:
 	1. Numbers (integers, real numbers, et al.)
 	1. Strings (sequences of text characters)
 	1. Booleans (T/F)
 	1. Collections (Values made up of multiple other values)
-- Every programming language has:
+### Every programming language has:
 	- bult-in operations
 	- variables
 	- branching (if statements)
 	- Looping (while/for statements)
 	- Functions (programmer-defined operations)
 		- Note: none of these mechanisms do input or output
-- Operations
+### Operations
 	- Most languages have a few dozen operations:
 		- arithmetic (~4)
 		- logic operations
@@ -31,23 +31,23 @@
 	- takes input values (usually two) and returns an output value
 	- operations usually tend to generate new values rather than mutating existing values
 	- Returned values  come as one of the four types of data mentioned above
-- Variables
+### Variables
 	- a named location in memory which stores a value
 	- an assignment that overwrites the value already stored in the variable with a new value
 	- you can mix and match variable values with each other
 	- these differ from variables in Math (storage locations in memory, store a single value, but the value can change)
-- Branching
+### Branching
 	- if statements
 		- if condition x is true, then execute body y
 		- (implicit: if condition x is not true, then skip over body y)
-- Looping 
+### Looping 
 	- while statements
 		- executes the body if the condition is true
 		- the condition is automatically evaluated each time the body is executed
 		- only when the execution tests false does it skip
 		- infinite loops are possible if the condition never becomes false
 		- loops and ifs can be nested to arbitrarily deep levels
-- Functions
+### Functions
 	- has a name and a body of statements
 	- called by the name
 	- may return an output value, or may not
@@ -56,7 +56,7 @@
 	- a program is a set of functions
 	- functions enclose/isolate variables from other functions
 	- functions take execution precedence
-- System Calls
+### System Calls
 	- Capabilities exposed by the operating system for program management and input/output
 	- Invoked by special hardware mechanism (particular CPU instructions)
 		- can invoke system calls to do some input/output on behalf of the program
