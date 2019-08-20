@@ -12,9 +12,9 @@
 		- receive data from a hardware device (mouse, keyboard, et al.)
 ### Data comes as one of four:
 	1. Numbers (integers, real numbers, et al.)
-	1. Strings (sequences of text characters)
-	1. Booleans (T/F)
-	1. Collections (Values made up of multiple other values)
+	2. Strings (sequences of text characters)
+	3. Booleans (T/F)
+	4. Collections (Values made up of multiple other values)
 ### Every programming language has:
 	- bult-in operations
 	- variables
