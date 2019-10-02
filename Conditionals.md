@@ -7,7 +7,8 @@
   - If X = 2, then increment X by 1
     - Else decrement X by 1
     
-Q. _Where does complex logic filter in? Not everything in the world can be filtered into a set of binary options; variables may not be known, or are still being discovered._
+Q. _Where does complex logic filter in? Not everything in the world can be filtered into a set of binary options; variables may not be known, or are still being discovered._ 
+
 A. 
 
 Q. What is a situation where you would declare a variable first, but not know its actual value until later?
@@ -20,5 +21,17 @@ if (declared === undefined) {
 ```
 Wouldn't it make more sense to wait until you know what declared is so you don't need the conditional? It's hard to think about what declared might be in a program. Or is this just the power of programming? That you don't need to wait to find out the value in order to still have control over it?
 
+A.
+
+Q. What is a truthy/falsey value?
+A. A value that may be forced into being true or false by rules of JavaScript.
+
 # Pseudocode
 - Generating pseudocode prior to writing actual code is easier than starting with actual code.
+
+Q. How to I use indexOf to find a value algorithmically if I don't know what value in an index I need?
+
+A. Perhaps if I've declared the variable already I can sort the index to give it the value it closest to the one I want it to have
+
+Q. If/Else statements -- when to use which?
+A. It's a Venn Diagram, sometimes you use one or the other, sometimes you can use both.
