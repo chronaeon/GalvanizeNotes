@@ -1,3 +1,5 @@
+@ Conditionals
+
 - One useful way to think about JavaScript is to think of all of the code we're writing as happening inside of a function.
 
 - Conditionals can be thought of in English sentences to discover their variables, i.e.
@@ -24,7 +26,7 @@ Wouldn't it make more sense to wait until you know what declared is so you don't
 A.
 
 Q. What is a truthy/falsey value?
-A. A value that may be forced into being true or false by rules of JavaScript.
+A. A value that will be forced into being true or false when evaluated by rules of JavaScript.
 
 # Pseudocode
 - Generating pseudocode prior to writing actual code is easier than starting with actual code.
