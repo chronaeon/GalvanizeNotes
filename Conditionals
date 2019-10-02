@@ -1,0 +1,10 @@
+- One useful way to think about JavaScript is to think of all of the code we're writing as happening inside of a function.
+
+- Conditionals can be thought of in English sentences to discover their variables, i.e.
+  - If it is X, then I will Y
+  - If it is raining, then I will cry
+  - If it is sunny, then I will dance
+  - If X = 2, then increment X by 1
+    - Else decrement X by 1
+    
+Q. _Where does complex logic filter in? Not everything in the world can be filtered into a set of binary options; variables may not be known, or still being discovered._
