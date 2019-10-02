@@ -1,4 +1,4 @@
-@ Conditionals
+# Conditionals
 
 - One useful way to think about JavaScript is to think of all of the code we're writing as happening inside of a function.
 
